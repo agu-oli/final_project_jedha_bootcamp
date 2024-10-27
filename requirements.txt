@@ -1,0 +1,22 @@
+#Production web servers
+gunicorn
+uvicorn
+
+#API framework
+fastapi
+
+#Data processing
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+
+#NLP libraries and models for pre-processing 
+transformers
+fasttext
+unidecode
+torch
+
+#Database interaction
+psycopg2-binary
